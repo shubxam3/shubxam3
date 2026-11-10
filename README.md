@@ -6,8 +6,8 @@ M.Sc. student in Mechatronics and Information Technology at KIT (Automation, Con
 
 ## Projects
 
-**[Formula Student acceleration simulation](https://github.com/shubxam3/fs-acceleration-sim)** · MATLAB, Simulink
-Longitudinal vehicle model that finds the gear ratio for the 75 m acceleration event of a four-wheel-drive electric race car: motor curve, Magic Formula tyres, load transfer, aero, rotor inertia and the 80 kW power limit.
+**[Formula Student gear ratio study](https://github.com/shubxam3/fs-gear-ratio-study)** · MATLAB, Simulink
+Vehicle and drivetrain model that finds the points-optimal gear ratio for a four-wheel-drive electric race car: time-domain acceleration model, lap simulation over all four dynamic events, motor and inverter loss model, the 80 kW power limit and the Formula Student scoring formulas.
 
 **[Engineering portfolio](https://github.com/shubxam3/engineering-portfolio)** · CAD, FEA, design calculations
 Case studies from Formula Student and industry:
