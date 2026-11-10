@@ -12,7 +12,7 @@ Longitudinal vehicle model that finds the gear ratio for the 75 m acceleration e
 **[Engineering portfolio](https://github.com/shubxam3/engineering-portfolio)** · CAD, FEA, design calculations
 Case studies from Formula Student and industry:
 - [Chain-drive drivetrain design](https://github.com/shubxam3/engineering-portfolio/blob/main/formula-manipal/drivetrain-design-study.md): differential mounts, sprockets and half shafts in CATIA and ANSYS
-- [Pneumatic gear shifter](https://github.com/shubxam3/engineering-portfolio/blob/main/formula-manipal/pneumatic-shifter.md): actuator sizing and circuit design
+- [Electro-pneumatic shifting and clutching](https://github.com/shubxam3/engineering-portfolio/blob/main/formula-manipal/pneumatic-shifter.md): actuator sizing, air budget and shift strategies
 - [Leading Formula Manipal](https://github.com/shubxam3/engineering-portfolio/blob/main/formula-manipal/team-lead.md): 80-member team, two cars, podiums at Formula Bharat 2021
 - [Product development at Suprajit Engineering](https://github.com/shubxam3/engineering-portfolio/blob/main/suprajit/README.md): ABS modelling, solenoid and CFD simulation, an optical throttle sensor with a patent filing
 
