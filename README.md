@@ -7,9 +7,11 @@ M.Sc. student in Mechatronics and Information Technology at KIT (Automation, Con
 ## Projects
 
 **[Formula Student gear ratio study](https://github.com/shubxam3/fs-gear-ratio-study)** · MATLAB, Simulink
+
 Vehicle and drivetrain model that finds the points-optimal gear ratio for a four-wheel-drive electric race car: time-domain acceleration model, lap simulation over all four dynamic events, motor and inverter loss model, the 80 kW power limit and the Formula Student scoring formulas.
 
 **[Engineering portfolio](https://github.com/shubxam3/engineering-portfolio)** · CAD, FEA, design calculations
+
 Case studies from Formula Student and industry:
 - [Chain-drive drivetrain design](https://github.com/shubxam3/engineering-portfolio/blob/main/formula-manipal/drivetrain-design-study.md): differential mounts, sprockets and half shafts in CATIA and ANSYS
 - [Electro-pneumatic shifting and clutching](https://github.com/shubxam3/engineering-portfolio/blob/main/formula-manipal/pneumatic-shifter.md): actuator sizing, air budget and shift strategies
@@ -29,10 +31,10 @@ Case studies from Formula Student and industry:
 
 ## Tools
 
-**Modelling and control** MATLAB · Simulink · IPG CarMaker · Python
-**CAE** ANSYS Mechanical · ANSYS Maxwell · ANSYS Fluent
-**CAD** CATIA V5 · SolidWorks · Creo · Fusion 360
-**Test** NI LabVIEW · data acquisition · DVP
+- **Modelling and control:** MATLAB · Simulink · IPG CarMaker · Python
+- **CAE:** ANSYS Mechanical · ANSYS Maxwell · ANSYS Fluent
+- **CAD:** CATIA V5 · SolidWorks · Creo · Fusion 360
+- **Test:** NI LabVIEW · data acquisition · DVP
 
 ## Contact
 
