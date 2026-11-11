@@ -2,7 +2,7 @@
 
 Mechatronics engineer in Karlsruhe, Germany. I model, simulate and test electromechanical systems.
 
-M.Sc. student in Mechatronics and Information Technology at KIT (Automation, Control and Robotics), with two years in automotive product development before that and a long Formula Student history.
+Two years in automotive product development on actuators, sensors and ABS, and Formula Student work on combustion and electric race cars.
 
 ## Projects
 
